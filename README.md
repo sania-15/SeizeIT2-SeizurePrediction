@@ -1,4 +1,4 @@
-# 🎛️ Multimodal Seizure Prediction Using EEG & EMG - MATLAB Implementation
+# Multimodal Seizure Prediction Using EEG & EMG - MATLAB Implementation
 ![IEEE](https://img.shields.io/badge/IEEE-EMBS%20Pune%20Chapter-blue)  
 ![Platform](https://img.shields.io/badge/Platform-MATLAB%20R2024a-orange)  
 ![Dataset](https://img.shields.io/badge/Dataset-SeizeIT2-green)  
@@ -13,7 +13,7 @@ This repository contains the complete MATLAB pipeline for a **multimodal deep le
 
 ---
 
-## 💡 Motivation  
+## Motivation  
 
 Epileptic seizures are unpredictable and can seriously disrupt the lives of patients and their families. Imagine being at school, work, or even crossing the street and suddenly experiencing a seizure without warning. While EEG (brain activity) is the gold standard for monitoring, it often struggles to detect non-motor seizures, which occur without visible physical signs.  
 
